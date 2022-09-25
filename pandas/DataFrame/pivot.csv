@@ -1,0 +1,41 @@
+Date;Region;Employé;Produit;Unité;Prix unitaire;Total
+06/01/2016;Est;Jean;Crayon;95; 1.99 ; 189.05 
+06/01/2016;Centre;jeanne;Classeur;50; 19.99 ; 999.5 
+06/01/2016;Centre;Gilles;Crayon;36; 4.99 ; 179.64 
+06/01/2016;Centre;Sorvino;Stylo;27; 19.99 ; 539.73 
+06/01/2016;Ouest;Kevin;Crayon;56; 2.99 ; 167.44 
+07/07/2016;Est;Jean;Classeur;60; 4.99 ; 299.4 
+07/07/2016;Centre;jeanne;Crayon;75; 1.99 ; 149.25 
+07/07/2016;Centre;Gilles;Crayon;90; 4.99 ; 449.1 
+07/07/2016;Ouest;Sorvino;Crayon;32; 1.99 ; 63.68 
+07/07/2016;Est;Kevin;Classeur;60; 8.99 ; 539.4 
+08/07/2016;Centre;Jean;Crayon;90; 4.99 ; 449.1 
+08/07/2016;Est;jeanne;Classeur;29; 1.99 ; 57.71 
+08/07/2016;Est;Gilles;Classeur;81; 19.99 ; 1619.19 
+08/07/2016;Est;Sorvino;Crayon;35; 4.99 ; 174.65 
+08/07/2016;Centre;Kevin;Bureau;2; 125.00   ; 250.00   
+09/07/2016;Est;Jean;Stylo Set;16; 15.99 ; 255.84 
+09/07/2016;Centre;jeanne;Classeur;28; 8.99 ; 251.72 
+09/07/2016;Est;Gilles;Stylo;64; 8.99 ; 575.36 
+09/07/2016;Est;Sorvino;Stylo;15; 19.99 ; 299.85 
+09/07/2016;Centre;Kevin;Stylo Set;96; 4.99 ; 479.04 
+10/07/2016;Centre;Jean;Crayon;67; 1.29 ; 86.43 
+10/07/2016;Est;jeanne;Stylo Set;74; 15.99 ; 1183.26 
+10/07/2016;Centre;Gilles;Classeur;46; 8.99 ; 413.54 
+10/07/2016;Centre;Sorvino;Classeur;87; 15.00   ; 1 305.00   
+10/07/2016;Est;Kevin;Classeur;4; 4.99 ; 19.96 
+11/07/2016;Ouest;Jean;Classeur;7; 19.99 ; 139.93 
+11/07/2016;Centre;jeanne;Stylo Set;50; 4.99 ; 249.5 
+11/07/2016;Centre;Gilles;Crayon;66; 1.99 ; 131.34 
+11/07/2016;Est;Sorvino;Stylo;96; 4.99 ; 479.04 
+11/07/2016;Centre;Kevin;Crayon;53; 1.29 ; 68.37 
+12/07/2016;Centre;Jean;Classeur;80; 8.99 ; 719.2 
+12/07/2016;Centre;jeanne;Bureau;5; 125.00   ; 625.00   
+12/07/2016;Est;Gilles;Stylo Set;62; 4.99 ; 309.38 
+12/07/2016;Centre;Sorvino;Stylo Set;55; 12.49 ; 686.95 
+12/07/2016;Centre;Kevin;Stylo Set;42; 23.95 ; 1005.9 
+13/07/2016;Ouest;Jean;Bureau;3; 275.00   ; 825.00   
+13/07/2016;Centre;jeanne;Crayon;7; 1.29 ; 9.03 
+13/07/2016;Ouest;Gilles;Stylo;76; 1.99 ; 151.24 
+13/07/2016;Ouest;Sorvino;Classeur;57; 19.99 ; 1139.43 
+13/07/2016;Centre;Kevin;Crayon;14; 1.29 ; 18.06 
